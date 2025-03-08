@@ -1,0 +1,9 @@
+REMOTEQUEST - Gerenciamento de Licenças
+🚀 REMOTEQUEST é um software que permite a comunicação e controle do Meta Quest via um player remoto.
+Este repositório é utilizado para armazenar e gerenciar licenças dos computadores autorizados a utilizar o software.
+
+📌 Sobre o Sistema de Licenciamento
+O PagDevApp é a ferramenta de gerenciamento de pagamento utilizada para adquirir a licença do software. Quando um pagamento é aprovado:
+
+O UUID (identificador único da placa-mãe) do computador é enviado e registrado neste repositório.
+Ao reinstalar o software, o sistema verifica este repositório para determinar se a máquina já está licenciada.
